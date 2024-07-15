@@ -5,6 +5,7 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.ManyToOne;
 import javax.persistence.DiscriminatorColumn;
 import javax.persistence.DiscriminatorType;
 import javax.persistence.Inheritance;
@@ -22,6 +23,7 @@ public abstract class Tarea {
     protected Long idTarea;
     protected String tipoTarea;
     protected String descripcionTarea;
+    @ManyToOne
     protected Usuario prop;
     protected boolean estadoTarea;
 
