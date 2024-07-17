@@ -29,6 +29,7 @@ la lista de productos de una venta específica y la sumatoria del monto y cantid
       <td><img width="50" src="https://raw.githubusercontent.com/No-Country/c17-61-t-java.old/Produccion/extra/postman-icon.webp" alt="Postman" title="Postman"/></td>
 			<td><img width="50" src="https://raw.githubusercontent.com/No-Country/c17-61-t-java.old/Produccion/extra/postman-icon.webp" alt="Maven" title="Maven"/></td>
 			<td><img width="50" src="https://raw.githubusercontent.com/No-Country/c17-61-t-java.old/Produccion/extra/postman-icon.webp" alt="JSON" title="JSON"/></td>
+			<td><img width="50" src="https://raw.githubusercontent.com/No-Country/c17-61-t-java.old/Produccion/extra/postman-icon.webp" alt="Jakarta Mail" title="Jakarta Mail"/></td>
 		</tr>
 	</table>
 </div>
